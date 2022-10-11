@@ -1,5 +1,5 @@
 # MoleculeGraph
-Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms
+Molecule Graph test using Kamada-Kawai and Fruchterman-Reingold algorithms.
 
 **Language: R**
 
